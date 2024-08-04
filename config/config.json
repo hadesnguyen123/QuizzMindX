@@ -1,0 +1,24 @@
+{
+    "development": {
+      "username": "sa",
+      "password": "1234",
+      "database": "Quizz",
+      "host": "localhost",
+      "dialect": "mssql"
+    },
+    "test": {
+      "username": "sa",
+      "password": null,
+      "database": "Quizz",
+      "host": "localhost",
+      "dialect": "mssql"
+    },
+    "production": {
+      "username": "sa",
+      "password": null,
+      "database": "Quizz",
+      "host": "localhost",
+      "dialect": "mssql"
+    }
+  }
+  
